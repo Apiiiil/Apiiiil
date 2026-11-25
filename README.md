@@ -1,8 +1,8 @@
-# Hi there, I'm Apil Upreti 👋
+Hi, I'm Apil Upreti
 
-### Python Developer | AI Enthusiast | Open to Remote Opportunities
+Python Developer | AI Enthusiast | Open to Remote Opportunities
 
-I'm a software developer with an interest in Python, web development, automation, and AI-powered applications. I enjoy learning new technologies, building practical projects, and continuously improving my programming skills.
+I'm a developer interested in Python, web development, automation, and AI. I enjoy building practical projects, exploring new technologies, and improving my skills through hands-on experience.
 
 ---
 
